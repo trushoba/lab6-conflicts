@@ -5,7 +5,11 @@ int main() {
 	std::cout << "Новое изменение Y" << std::endl;
 	std::cout << "Новое изменение X" << std::endl;
 	cout << "This is FEATURE 2" << endl; //+2 izmenenie
+<<<<<<< HEAD
+	cout << "This is FEATURE 133" << endl; //+1 izmenenie
+=======
 	cout << "This is FEATURE 12" << endl; //+1 izmenenie 
+>>>>>>> main
 	return 0;
 
 }
