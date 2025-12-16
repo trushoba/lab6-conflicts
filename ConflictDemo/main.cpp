@@ -1,13 +1,9 @@
 #include <iostream>
 using namespace std;
-
 int main() {
-	cout << "Hello from main branch!" << endl;
-<<<<<<< HEAD
+	std::cout << "Новое изменение X" << std::endl;
 	cout << "This is FEATURE 2" << endl; //+2 izmenenie
-=======
 	cout << "This is FEATURE 1" << endl; //+1 izmenenie
->>>>>>> main
 	return 0;
 
 }
